@@ -1,0 +1,1 @@
+export { CPC } from "./class";
