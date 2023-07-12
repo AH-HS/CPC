@@ -27,7 +27,7 @@ test("基本测试1", () => {
     );
 });
 
-test("基准测试2", () => {
+test("基本测试2", () => {
     assert.equal(
         "rounded w-[100px] h-[100px] text-[#ff5566] bg-[#11ff66]"
             .split(" ")
